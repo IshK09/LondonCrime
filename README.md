@@ -4,3 +4,4 @@ The project cleans the london crime data from [London Data Store](https://data.l
 
 Data is saved as a csv. 
 
+The code is located in file [LondonCrime.R](https://github.com/IshK09/LondonCrime/blob/master/LondonCrime.R) and it requires [LondonBoroughLevelCrime.csv](https://github.com/IshK09/LondonCrime/blob/master/LondonBoroughLevelCrime.csv) as an input
